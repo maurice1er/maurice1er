@@ -8,7 +8,7 @@
 
 <br/>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maurice1er&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maurice1er&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Maurice1er github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice1er&theme=radical&layout=compact&hide_border=true" />
 </div>
 
