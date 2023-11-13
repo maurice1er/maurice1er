@@ -44,50 +44,46 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></kbd>
   </a>
+  <!-- Python -->
+  <a href="https://www.python.com/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" /></kbd>
+  </a>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></kbd>
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></kbd>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb logo" width="40" height="40" /></kbd>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></kbd>
-  </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <kbd><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></kbd>
-  </a>
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <kbd><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></kbd>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd>
   </a>
   <!-- C# -->
   <a href="https://www.python.com/" target="_blank" rel="noreferrer">
     <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /></kbd>
   </a>
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <kbd><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></kbd>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></kbd>
+  </a>
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <kbd><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></kbd>
+  </a>
   <!-- K8s -->
   <a href="https://www.kubernetes.com/" target="_blank" rel="noreferrer">
     <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /></kbd>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb logo" width="40" height="40" /></kbd>
   </a>
   <!-- Neo4j -->
   <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer">
     <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j logo" width="40" height="40" /></kbd>
   </a>
-  <!-- Python -->
-  <a href="https://www.python.com/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" /></kbd>
-  </a> 
 </p>
 
 
