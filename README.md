@@ -77,7 +77,7 @@
     <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd>
   </a>
   <!-- MongoDB -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer">
     <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb logo" width="40" height="40" /></kbd>
   </a>
   <!-- Neo4j -->
