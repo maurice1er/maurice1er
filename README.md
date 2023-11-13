@@ -52,8 +52,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></kbd>
   </a>
-  <!-- C# -->
-  <a href="https://www.python.com/" target="_blank" rel="noreferrer">
+  <!-- C# --> 
+  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer">
     <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /></kbd>
   </a>
   <!-- Flutter -->
