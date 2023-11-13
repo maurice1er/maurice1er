@@ -24,8 +24,6 @@
 <br/>
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" />  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" />  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" />  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="neo4j logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="neo4j logo" width="40" height="40" />
-
 
 <div align="center">
   <br>
@@ -54,13 +52,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></kbd>
   </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></kbd>
-  </a>
-  <!-- HTML5 -->
+  <!-- MongoDB -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></kbd>
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb logo" width="40" height="40" /></kbd>
   </a>
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -78,12 +72,22 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd>
   </a>
-  <!-- AWS -->
-  <!-- (Include AWS icon and link here) -->
-  <!-- Node.js -->
-  <!-- (Include Node.js icon and link here) -->
+  <!-- C# -->
+  <a href="https://www.python.com/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /></kbd>
+  </a>
+  <!-- K8s -->
+  <a href="https://www.kubernetes.com/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /></kbd>
+  </a>
+  <!-- Neo4j -->
+  <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j logo" width="40" height="40" /></kbd>
+  </a>
   <!-- Python -->
-  <!-- (Include Python icon and link here) -->
+  <a href="https://www.python.com/" target="_blank" rel="noreferrer">
+    <kbd><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" /></kbd>
+  </a> 
 </p>
 
 
