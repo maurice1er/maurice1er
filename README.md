@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maurice1er
-- 👀 I’m interested in Data Analysis, Software development and ML
+- 👀 I’m interested in DevOps and Software development
 - 🌱 I’m currently learning AWS and terraform 
 
 <br/>
